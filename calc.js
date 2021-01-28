@@ -1,4 +1,5 @@
 // References code from Lecture 2
+//
 
 (function () {
     "use strict";
