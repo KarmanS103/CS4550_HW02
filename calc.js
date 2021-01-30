@@ -135,6 +135,8 @@
         });
     }
 
+
+    
     /**
      * Adds all Event Listeners to the window 
      */
